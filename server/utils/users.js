@@ -1,8 +1,4 @@
-[{
-  id:'/234jl#dfjs',
-  name:'Jiaqi',
-  room:'The office Fans'
-}]
+
 
 //addUser(id,name,room)
 //removeUser(id)
